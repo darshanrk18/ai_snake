@@ -4,7 +4,7 @@
 [![Pygame](https://img.shields.io/badge/Pygame-2.0+-green.svg)](https://www.pygame.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A fully-documented implementation of a Snake-playing agent that uses **ONLY A\* pathfinding** with sophisticated safety checks. This project demonstrates advanced AI decision-making without machine learning.
+A fully-documented implementation of a Snake-playing agent that uses **A\* pathfinding** with sophisticated safety checks. This project demonstrates advanced AI decision-making without machine learning.
 
 ## Features
 
