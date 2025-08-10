@@ -8,7 +8,7 @@ A fully-documented implementation of a Snake-playing agent that uses **ONLY A\* 
 
 ## Features
 
-- **Pure A* Implementation**: No machine learning, just deterministic pathfinding
+- **Pure A\* Implementation**: No machine learning, just deterministic pathfinding
 - **Safety-First Strategy**: Multiple fallback strategies to avoid self-trapping
 - **Visual Path Display**: See the AI's planned route in real-time
 - **Performance Metrics**: Track efficiency and success rates
